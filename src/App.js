@@ -5,6 +5,7 @@ import {Route, Switch} from 'react-router-dom'
 import ShopPage from './pages/ShopPage/ShopPage.component';
 import Header from './components/Header/Header.component';
 
+
 function App() {
   return (
     <div>
@@ -12,6 +13,7 @@ function App() {
       <Switch>
         <Route exact path='/' component={HomePage} />
         <Route exact path='/shop' component={ShopPage} />
+     
       </Switch>
    
     </div>
