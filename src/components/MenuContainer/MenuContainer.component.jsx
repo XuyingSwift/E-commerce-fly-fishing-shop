@@ -7,33 +7,33 @@ class MenuContainer extends React.Component {
         super();
         this.state = {
             items: [{
-                title: 'hats',
-                imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                title: 'boots',
+                imageUrl: 'https://i.ibb.co/z71tRMY/boots.jpg',
                 id: 1,
                 linkUrl: 'hats'
               },
               {
-                title: 'jackets',
-                imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+                title: 'waders',
+                imageUrl: 'https://i.ibb.co/HTS5CwF/wader.jpg',
                 id: 2,
                 linkUrl: 'hats'
               },
               {
-                title: 'sneakers',
-                imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+                title: 'fishing rods',
+                imageUrl: 'https://i.ibb.co/Kj4tmKn/rod.jpg',
                 id: 3,
                 linkUrl: 'hats'
               },
               {
                 title: 'womens',
-                imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+                imageUrl: 'https://i.ibb.co/X8PjzD0/women.jpg',
                 size: 'large',
                 id: 4,
                 linkUrl: 'hats'
               },
               {
                 title: 'mens',
-                imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+                imageUrl: 'https://i.ibb.co/GJyY48x/man.jpg',
                 size: 'large',
                 id: 5,
                 linkUrl: 'hats'

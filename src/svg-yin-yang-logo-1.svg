@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 870 870" enable-background="new 0 0 870 870" xml:space="preserve">
+<g id="XMLID_96_">
+	<path id="XMLID_7_" fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M633.5,204.5
+		C633.5,313.6,545.1,402,436,402s-197.5,88.4-197.5,197.5c0,108.2,87,196.1,194.9,197.5C216.5,795.6,41,619.3,41,402
+		S216.5,8.4,433.4,7c0.8,0,1.7,0,2.6,0s1.7,0,2.6,0C546.5,8.4,633.5,96.3,633.5,204.5z"/>
+	<path id="XMLID_9_" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M831,402c0,217.3-175.5,393.6-392.4,395
+		c-0.8,0-1.7,0-2.6,0s-1.7,0-2.6,0c-107.9-1.4-194.9-89.3-194.9-197.5C238.5,490.4,326.9,402,436,402s197.5-88.4,197.5-197.5
+		c0-108.2-87-196.1-194.9-197.5C655.5,8.4,831,184.7,831,402z"/>
+	<circle id="XMLID_1_" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="436" cy="541" r="55.2"/>
+	<circle id="XMLID_3_" stroke="#000000" stroke-miterlimit="10" cx="436" cy="174.6" r="55.2"/>
+</g>
+<radialGradient id="XMLID_151_" cx="436" cy="835" r="279.7401" gradientTransform="matrix(1 0 0 0.3636 0 531.3636)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#000000"/>
+	<stop  offset="0.1" style="stop-color:#414042"/>
+	<stop  offset="0.2" style="stop-color:#414042"/>
+	<stop  offset="0.3" style="stop-color:#58595B"/>
+	<stop  offset="0.4" style="stop-color:#6D6E71"/>
+	<stop  offset="0.5" style="stop-color:#808285"/>
+	<stop  offset="0.6" style="stop-color:#939598"/>
+	<stop  offset="0.7" style="stop-color:#A7A9AC"/>
+	<stop  offset="0.8" style="stop-color:#BCBEC0"/>
+	<stop  offset="0.9" style="stop-color:#D1D3D4"/>
+	<stop  offset="1" style="stop-color:#F1F2F2"/>
+</radialGradient>
+<ellipse id="XMLID_149_" fill="url(#XMLID_151_)" cx="436" cy="835" rx="395" ry="8"/>
+</svg>
