@@ -65,7 +65,7 @@ class SignUp extends React.Component {
                     name='displayName'
                     vaule={displayName}
                     onChange={this.handleChange}
-                    lable='Display Name'
+                    lable='DisplayName'
                     required
                 />
                 <FormInput

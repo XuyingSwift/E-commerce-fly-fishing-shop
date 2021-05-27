@@ -1,5 +1,7 @@
 import React from 'react';
 
+import {connect} from 'react-redux';
+
 import {Link} from 'react-router-dom';
 
 import {ReactComponent as Logo} from '../../asserts/fish.svg';
@@ -25,4 +27,10 @@ const Header = ({currentUser}) => {
     )
 }
 
-export default Header;
+
+// return somthing back!
+const mapStateToProps = state => ({
+   currentUser: state.user.currentUser
+});
+
+export default connect(mapStateToProps)(Header);
