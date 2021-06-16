@@ -11,8 +11,10 @@ import './Header.styles.scss';
 import {auth} from '../../firebase/firebase.utils'
 
 import CartIcon from '../Cart-Icon/CartIcon.component';
+import CartDropdown from '../Cart-dropdown/CartDropdown.component';
 
 const Header = ({currentUser}) => {
+    console.log("header current user", currentUser)
     return (
         <div className='header'>
             <Link className='logo-container' to='/'>
@@ -27,6 +29,7 @@ const Header = ({currentUser}) => {
                     : <Link className='option' to='/signin'>Sign in</Link>}
                 <CartIcon/>
             </div>
+            <CartDropdown/>
             
         </div>
     )
